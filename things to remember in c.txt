@@ -1,0 +1,9 @@
+things to remember in c
+1)use %zu for strlen
+2)strcpy does copy the value and gives to the desired variable
+3)strcat added two string into one big one , it added to the variable mentioned first in the function
+4)there is no special escape sequence for space,it's either vertical horizontal like real big
+5)strncat add only the specified no of letter from the second string..
+6)while using strstr to find a certain word ina sentence if you are using a variable remember to specify the varible well in both scanf and installization.
+7)sprintf stores the value in a buffer while can be stored with a variable
+8)strtok() #study this tomorrow
